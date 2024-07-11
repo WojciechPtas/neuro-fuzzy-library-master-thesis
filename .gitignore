@@ -1,8 +1,10 @@
+data/
 source/dane/
 source/exec/
 source/results/
-
-
+source/_release
+results
+.vscode
 
 # Prerequisites
 *.d
